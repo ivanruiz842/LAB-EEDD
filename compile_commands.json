@@ -1,0 +1,37 @@
+[{
+  "file": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio06\\main.cpp",
+  "directory": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio06",
+  "command": "clang++ -c C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio06\\main.cpp -o C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio08\\main.cpp",
+  "directory": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio08",
+  "command": "clang++ -c C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio08\\main.cpp -o C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio05\\main.cpp",
+  "directory": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio05",
+  "command": "clang++ -c C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio05\\main.cpp -o C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio04\\main.cpp",
+  "directory": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio04",
+  "command": "clang++ -c C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio04\\main.cpp -o C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio07\\main.cpp",
+  "directory": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio07",
+  "command": "clang++ -c C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio07\\main.cpp -o C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio03\\main.cpp",
+  "directory": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio03",
+  "command": "clang++ -c C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio03\\main.cpp -o C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio01\\main.cpp",
+  "directory": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio01",
+  "command": "clang++ -c C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio01\\main.cpp -o C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio02\\main.cpp",
+  "directory": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio02",
+  "command": "clang++ -c C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio02\\main.cpp -o C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\ejercicio02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\EjerciciosPractica1\\main.cpp",
+  "directory": "C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\EjerciciosPractica1",
+  "command": "clang++ -c C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\EjerciciosPractica1\\main.cpp -o C:\\Users\\ivanr\\OneDrive\\Documentos\\EjerciciosPractica1\\EjerciciosPractica1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

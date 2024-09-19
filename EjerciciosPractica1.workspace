@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="EjerciciosPractica1" Database="" Version="10000">
+  <Project Name="EjerciciosPractica1" Path="EjerciciosPractica1/EjerciciosPractica1.project" Active="No"/>
+  <Project Name="ejercicio01" Path="ejercicio01/ejercicio01.project" Active="No"/>
+  <Project Name="ejercicio02" Path="ejercicio02/ejercicio02.project" Active="No"/>
+  <Project Name="ejercicio03" Path="ejercicio03/ejercicio03.project" Active="No"/>
+  <Project Name="ejercicio04" Path="ejercicio04/ejercicio04.project" Active="No"/>
+  <Project Name="ejercicio05" Path="ejercicio05/ejercicio05.project" Active="No"/>
+  <Project Name="ejercicio06" Path="ejercicio06/ejercicio06.project" Active="Yes"/>
+  <Project Name="ejercicio07" Path="ejercicio07/ejercicio07.project" Active="No"/>
+  <Project Name="ejercicio08" Path="ejercicio08/ejercicio08.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="EjerciciosPractica1" ConfigName="Debug"/>
+      <Project Name="ejercicio01" ConfigName="Debug"/>
+      <Project Name="ejercicio02" ConfigName="Debug"/>
+      <Project Name="ejercicio03" ConfigName="Debug"/>
+      <Project Name="ejercicio04" ConfigName="Debug"/>
+      <Project Name="ejercicio05" ConfigName="Debug"/>
+      <Project Name="ejercicio06" ConfigName="Debug"/>
+      <Project Name="ejercicio07" ConfigName="Debug"/>
+      <Project Name="ejercicio08" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="EjerciciosPractica1" ConfigName="Release"/>
+      <Project Name="ejercicio01" ConfigName="Release"/>
+      <Project Name="ejercicio02" ConfigName="Release"/>
+      <Project Name="ejercicio03" ConfigName="Release"/>
+      <Project Name="ejercicio04" ConfigName="Release"/>
+      <Project Name="ejercicio05" ConfigName="Release"/>
+      <Project Name="ejercicio06" ConfigName="Release"/>
+      <Project Name="ejercicio07" ConfigName="Release"/>
+      <Project Name="ejercicio08" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
