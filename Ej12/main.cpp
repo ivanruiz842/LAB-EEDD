@@ -29,6 +29,10 @@ persona CrearPersona(char n[30], int e,long t)
 int main(int argc, char** argv)
 {
 	persona ejemplo;
+	ejemplo = CrearPersona((char*)"Jesus", 99, 123456789);
+	cout << "Paso por valor" << endl;
+	Escribir(ejemplo);
+	cout << endl;
 	ejemplo = CrearPersona((char*)"Mario", 55, 987654321);
 	cout << "Paso con punteros" << endl;
 	EscribirPuntero(&ejemplo);
