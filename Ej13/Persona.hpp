@@ -10,5 +10,5 @@ public:
 private:
 	bool genero;
 	int edad;
-	char[10] dni;
+	char dni[10];
 };

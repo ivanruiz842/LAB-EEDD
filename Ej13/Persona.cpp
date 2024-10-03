@@ -1,4 +1,4 @@
-#include "Persona.hpp"
+#include "Persona.hpp "
 #include <iostream>
 #include <cstdlib>  
 #include <ctime>    
@@ -17,14 +17,14 @@ Persona::Persona(int edad) {
     snprintf(dni, 10, "%08d%c", numeroDNI, letraDNI); 
 }
 
-
 Persona::~Persona() {
-    
+    // Destructor vacío
 }
 
 int Persona::getEdad() {
     return edad;
 }
+
 bool Persona::esMujer() {
     return genero;
 }
@@ -34,5 +34,7 @@ void Persona::setEdad(int edad) {
 }
 
 void Persona::mostrar() {
-    cout << "Edad: " << edad << ", Género: " << (genero ? "Mujer" : "Hombre") << ", DNI: " << dni << endl;
+    cout << "Edad: " << edad << endl;
+    cout << "Genero: " << (genero ? "Mujer" : "Hombre") << endl;
+    cout << "DNI: " << dni << endl;
 }

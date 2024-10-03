@@ -1,28 +1,37 @@
 #include "Persona.hpp"
 #include <iostream>
 #include <vector>
-#include <set>     
+#include <cstdlib>
+#include <ctime>
 
 using namespace std;
 
-int main() {
-    srand(time(0));  
+int main()
+{
+    srand(time(NULL));
 
     vector<Persona> personas;
-    set<int> edadesUsadas;
+    vector<int> edadesDisponibles;
 
-    while (personas.size() < 10) {
-        int edadAleatoria = rand() % 10 + 18;   
-
-        if (edadesUsadas.find(edadAleatoria) == edadesUsadas.end()) {
-            personas.push_back(Persona(edadAleatoria));
-            edadesUsadas.insert(edadAleatoria);  
-        }
+    for (int i = 18; i <= 27; i++) {
+        edadesDisponibles.push_back(i);
     }
 
-    for (int i = 0; i < personas.size(); i++) {
-        cout << "Persona " << i + 1 << ": ";
+    for (int i = 0; i < 10; i++) {
+        int indiceAleatorio = rand() % edadesDisponibles.size();
+        int edad = edadesDisponibles[indiceAleatorio];
+
+        edadesDisponibles.erase(edadesDisponibles.begin() + indiceAleatorio);
+
+        Persona p(edad);
+        personas.push_back(p);
+    }
+
+
+    for (size_t i = 0; i < personas.size(); i++) {
+        cout << "Persona " << i + 1 << ":" << endl;
         personas[i].mostrar();
+        cout << endl;
     }
 
     return 0;
